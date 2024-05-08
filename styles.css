@@ -1,2 +1,58 @@
+/* styles.css */
 
-/* Your CSS Code here. */
+/* Body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+/* Header */
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Navigation */
+nav {
+    background-color: #666;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+/* Summary */
+summary {
+    font-style: italic;
+    margin: 20px;
+}
+
+/* Sections */
+section {
+    background-color: #fff;
+    padding: 20px;
+    margin: 10px;
+}
+
+/* Aside */
+aside {
+    background-color: #ddd;
+    padding: 10px;
+    margin: 10px;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
